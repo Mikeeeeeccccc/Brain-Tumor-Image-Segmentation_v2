@@ -30,7 +30,7 @@ run the main.ipynb
 
 ## result
 
-| Accuracy |   Loss     Val Accuracy | Val Loss |
+| Accuracy |   Loss   | Val Accuracy | Val Loss |
 |----------|----------|--------------|----------|
 | 0.9791   | 0.1996   | 0.9804       |  0.1849  |
 
